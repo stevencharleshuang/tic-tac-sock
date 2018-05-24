@@ -1,0 +1,29 @@
+{
+  "name": "tic-tac-sock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevencharleshuang/tic-tac-sock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevencharleshuang/tic-tac-sock/issues"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.5",
+    "skeleton-css": "^2.0.4",
+    "socket.io": "^1.7.1"
+  },
+  "homepage": "https://github.com/stevencharleshuang/tic-tac-sock#readme"
+}
